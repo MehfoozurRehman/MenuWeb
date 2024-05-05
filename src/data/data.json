@@ -2,12 +2,12 @@
   {
     "name": "Cold Appetizers",
     "nameAr": "المقبلات الباردة",
-    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512587/menuwebsite/upload/img1_j5ty1y.webp",
+    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512587/menuwebsite/upload/img1_j5ty1y.webp",
     "products": [
       {
         "name": "Green Salad",
         "nameAr": "سلطة خضراء",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512598/menuwebsite/upload/img2_txrx2j.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512598/menuwebsite/upload/img2_txrx2j.webp",
         "description": "Fresh vegetables prepared in the Levantine style",
         "descriptionAr": "الخضار الطازج المعد على الطريقة الشامية",
         "price": "16.00",
@@ -16,7 +16,7 @@
       {
         "name": "Arugula Salad",
         "nameAr": "سلطة جرجير",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512600/menuwebsite/upload/img3_zihz16.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512600/menuwebsite/upload/img3_zihz16.webp",
         "description": "Fresh arugula with white onion pieces and walnuts",
         "descriptionAr": "الجرجير الطازج مع قطع البصل الأبيض ومكسرات عين الجمل",
         "price": "16.00",
@@ -26,7 +26,7 @@
       {
         "name": "Tabbouleh",
         "nameAr": "تبولة",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512600/menuwebsite/upload/img4_st4xsd.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512600/menuwebsite/upload/img4_st4xsd.webp",
         "description": "Chopped parsley with bulgur, tomato granules, and a sprinkle of lemon and lime",
         "descriptionAr": "البقدونس المفروم مع البرغل وحبيبات الطماطم ورشة الحامض والليمون",
         "price": "16.00",
@@ -35,7 +35,7 @@
       {
         "name": "Fattoush",
         "nameAr": "فتوش",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512599/menuwebsite/upload/img5_shsbc5.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512599/menuwebsite/upload/img5_shsbc5.webp",
         "description": "Fresh vegetables with crispy bread pieces and drops of pomegranate molasses",
         "descriptionAr": "الخضار الطازج مع قطع الخبز المقرمشة وقطرات دبس الرمان",
         "price": "17.00",
@@ -44,7 +44,7 @@
       {
         "name": "Hummus",
         "nameAr": "حمص",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512601/menuwebsite/upload/img6_urhov6.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512601/menuwebsite/upload/img6_urhov6.webp",
         "description": "Hummus, tahini and premium olive oil",
         "descriptionAr": "الحمص والطحينة وزيت الزيتون الفاخر",
         "price": "16.00",
@@ -53,7 +53,7 @@
       {
         "name": "Beirut Hummus",
         "nameAr": "حمص بيروتي",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512587/menuwebsite/upload/img1_j5ty1y.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512587/menuwebsite/upload/img1_j5ty1y.webp",
         "description": "Hummus prepared in the authentic Lebanese style",
         "descriptionAr": "الحمص المعد على الطريقة اللبنانية الأصيلة",
         "price": "16.00",
@@ -62,7 +62,7 @@
       {
         "name": "Spicy Hummus",
         "nameAr": "حمص سبايسي",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512600/menuwebsite/upload/img8_z9mun0.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512600/menuwebsite/upload/img8_z9mun0.webp",
         "description": "Hummus and tahini with chili pepper and premium olive oil",
         "descriptionAr": "الحمص والطحينة مع الفلفل الحار وزيت الزيتون الفاخر",
         "price": "16.00",
@@ -71,7 +71,7 @@
       {
         "name": "Spiced",
         "nameAr": "متبل",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512601/menuwebsite/upload/img9_rkthti.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512601/menuwebsite/upload/img9_rkthti.webp",
         "description": "Grilled eggplant prepared in our special way with pomegranate seeds",
         "descriptionAr": "الباذنجان المشوي المعد على طريقتنا الخاصة مع حبيبات الرمان",
         "price": "14.00",
@@ -80,7 +80,7 @@
       {
         "name": "Seasoned with Beetroot",
         "nameAr": "متبل بالشمندر",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512596/menuwebsite/upload/img10_kpo9ia.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512596/menuwebsite/upload/img10_kpo9ia.webp",
         "description": "Grilled eggplant with beetroot in our special way",
         "descriptionAr": "الباذنجان المشوي بالشمندر على طريقتنا الخاصة",
         "price": "16.00",
@@ -89,7 +89,7 @@
       {
         "name": "Baba Ghanoush",
         "nameAr": "بابا غنوج",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512586/menuwebsite/upload/img11_sjokum.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512586/menuwebsite/upload/img11_sjokum.webp",
         "description": "Fresh vegetables mashed in our special way",
         "descriptionAr": "الخضار الطازج المهروس على طريقتنا الخاصة",
         "price": "14.00",
@@ -98,7 +98,7 @@
       {
         "name": "Garlic Cream",
         "nameAr": "كريم ثوم",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512586/menuwebsite/upload/img12_yziie3.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512586/menuwebsite/upload/img12_yziie3.webp",
         "description": "Traditional garlic cream",
         "descriptionAr": "كريم الثوم التقليدي",
         "price": "11.00",
@@ -107,7 +107,7 @@
       {
         "name": "Grape Leaves",
         "nameAr": "ورق عنب",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512597/menuwebsite/upload/img13_rytpmg.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512597/menuwebsite/upload/img13_rytpmg.webp",
         "description": "Six pieces of grape leaves prepared in our special way",
         "descriptionAr": "ست حبات من أصابع ورق العنب المعد على طريقتنا الخاصة",
         "price": "16.00",
@@ -116,7 +116,7 @@
       {
         "name": "Mixed Appetizers",
         "nameAr": "مشكل مقبلات",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512597/menuwebsite/upload/img14_sfmwyi.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512597/menuwebsite/upload/img14_sfmwyi.webp",
         "description": "A selection of hummus, mutabal, tabbouleh and green salad",
         "descriptionAr": "تشكيلة من الحمص والمتبل والتبولة والسلطة الخضراء",
         "price": "26.00",
@@ -127,12 +127,12 @@
   {
     "name": "Hot Appetizers",
     "nameAr": "المقبلات الساخنة",
-    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512585/menuwebsite/upload/imagepart2/img_evcpdp.webp",
+    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512585/menuwebsite/upload/imagepart2/img_evcpdp.webp",
     "products": [
       {
         "name": "Wild Mushroom Soup",
         "nameAr": "شوربة الفطر البري",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512606/menuwebsite/upload/imagepart2/img1_pen79e.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512606/menuwebsite/upload/imagepart2/img1_pen79e.webp",
         "description": "Hearty and delicious wild mushroom soup",
         "descriptionAr": "حساء الفطر البري الشهي واللذيذ",
         "price": "16.00",
@@ -142,7 +142,7 @@
       {
         "name": "Lentil Soup",
         "nameAr": "شوربة عدس",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512612/menuwebsite/upload/imagepart2/img2_evyje1.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512612/menuwebsite/upload/imagepart2/img2_evyje1.webp",
         "description": "Delicious and warm lentil soup",
         "descriptionAr": "حساء العدس الشهي والدافئ",
         "price": "14.00",
@@ -151,7 +151,7 @@
       {
         "name": "French fries",
         "nameAr": "بطاطا مقلية",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512585/menuwebsite/upload/imagepart2/img3_tv7k7x.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512585/menuwebsite/upload/imagepart2/img3_tv7k7x.webp",
         "description": "Golden potato fingers with a sprinkle of pepper and salt",
         "descriptionAr": "أصابع البطاطا الذهبية مع رشة من الفليفلة و الملح",
         "price": "14.00",
@@ -160,7 +160,7 @@
       {
         "name": "Fries",
         "nameAr": "بطاطا حرة",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512586/menuwebsite/upload/imagepart2/img4_cjrqo0.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512586/menuwebsite/upload/imagepart2/img4_cjrqo0.webp",
         "description": "Fresh potato pieces smeared with our delicious seasoning with a little garlic and parsley",
         "descriptionAr": "قطع البطاطا الطازجة المدهونة بتتبيلتنا الزاكية مع القليل من الثوم والبقدونس",
         "price": "19.00",
@@ -169,7 +169,7 @@
       {
         "name": "Grilled Kibbeh",
         "nameAr": "كبة مشوية",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512585/menuwebsite/upload/imagepart2/img5_dvtu17.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512585/menuwebsite/upload/imagepart2/img5_dvtu17.webp",
         "description": "Stuffed with meat with pomegranate seeds",
         "descriptionAr": "محشوة باللحم مع حبيبات الرمان",
         "price": "8.00",
@@ -178,7 +178,7 @@
       {
         "name": "Fried Meat Kibbeh",
         "nameAr": "كبة لحم مقلية",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512586/menuwebsite/upload/imagepart2/img6_fbgxok.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512586/menuwebsite/upload/imagepart2/img6_fbgxok.webp",
         "description": "Prepared in our special way (4 pieces)",
         "descriptionAr": "معدة على طريقتنا الخاصة (٤ حبات)",
         "price": "22.00",
@@ -191,7 +191,7 @@
       {
         "name": "Hummus with Meat",
         "nameAr": "حمص باللحم",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706702137/part4/part5/part6/new/DSC_0574_l6yxke.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706702137/part4/part5/part6/new/DSC_0574_l6yxke.webp",
         "description": "Our special hummus with hot pieces of meat in the middle",
         "descriptionAr": "حمصنا الخاص تتوسطه قطع اللحم الساخنة",
         "price": "26.00",
@@ -201,7 +201,7 @@
       {
         "name": "Marinated with Meat",
         "nameAr": "متبل باللحم",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706512589/menuwebsite/upload/imagepart2/img8_w8pbnc.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706512589/menuwebsite/upload/imagepart2/img8_w8pbnc.webp",
         "description": "Our special marinade with hot pieces of meat in the middle",
         "descriptionAr": "متبلنا الخاص تتوسطه قطع اللحم الساخنة",
         "price": "26.00",
@@ -212,12 +212,12 @@
   {
     "name": "Oven Dishes",
     "nameAr": "أطباق الفرن",
-    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706514285/menuwebsite/upload/imagepart2/part3/img3_x1zrfs.webp",
+    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706514285/menuwebsite/upload/imagepart2/part3/img3_x1zrfs.webp",
     "products": [
       {
         "name": "Levantine Plate",
         "nameAr": "صفيحة شامية",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706514285/menuwebsite/upload/imagepart2/part3/img3_x1zrfs.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706514285/menuwebsite/upload/imagepart2/part3/img3_x1zrfs.webp",
         "description": "Minced meat marinated in our special way on oven-baked dough sheets",
         "descriptionAr": "اللحم المفروم المتبل بطريقتنا الخاصة على رقائق العجين المقمرة بالفرن",
         "price": "27.00",
@@ -227,7 +227,7 @@
       {
         "name": "Levantine safiha with pomegranate molasses",
         "nameAr": "صفيحة شامية بدبس الرمان",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706535355/part4/part5/part6/new/DSC_0342_sm_hwnyel.jpg",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706535355/part4/part5/part6/new/DSC_0342_sm_hwnyel.jpg",
         "description": "",
         "descriptionAr": "اللحم المفروم المتبل بطريقتنا الخاصة مع دبس الرمان على رقائق العجين المقمرة بالفرن",
         "price": "27.00",
@@ -237,7 +237,7 @@
       {
         "name": "Meat with Aleppo dough",
         "nameAr": "لحم بعجين حلبي",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706535355/part4/part5/part6/new/DSC_0378_sm_ghiusu.jpg",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706535355/part4/part5/part6/new/DSC_0378_sm_ghiusu.jpg",
         "description": "Minced meat marinated in our special way on round dough sheets and baked in the oven",
         "descriptionAr": "لحم مفروم متبل بطريقتنا الخاصة على رقائق العجين المدورة والمقمرة بالفرن",
         "price": "27.00",
@@ -247,7 +247,7 @@
       {
         "name": "Meat bajin with pomegranate molasses",
         "nameAr": "لحم بعجين بدبس الرمان",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706514393/menuwebsite/upload/imagepart2/part3/img5_xiyxda.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706514393/menuwebsite/upload/imagepart2/part3/img5_xiyxda.webp",
         "description": "Minced meat marinated in our special way with pomegranate molasses on round dough sheets baked in the oven",
         "descriptionAr": "لحم مفروم متبل بطريقتنا الخاصةمع دبس الرمان على رقائق العجين المدورة والمقمرة بالفرن",
         "price": "27.00",
@@ -257,7 +257,7 @@
       {
         "name": "Meatballs with yogurt",
         "nameAr": "كفتة باللبن",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706514287/menuwebsite/upload/imagepart2/part3/img6_muutzl.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706514287/menuwebsite/upload/imagepart2/part3/img6_muutzl.webp",
         "description": "A tender piece of kofta topped with special tahini sauce with the notes of green onions and sesame seeds",
         "descriptionAr": "قطعة الكفتة الطرية يعلوها صوص الطحينة الخاص مع نفحة البصل الأخضر وحبات السمسم",
         "price": "32.00",
@@ -267,7 +267,7 @@
       {
         "name": "Chicken Pottery",
         "nameAr": "فخارة دجاج",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706514288/menuwebsite/upload/imagepart2/part3/img8_tztb0z.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706514288/menuwebsite/upload/imagepart2/part3/img8_tztb0z.webp",
         "description": "Slices of fresh chicken with onions, mushrooms and red bell pepper served on a clay plate",
         "descriptionAr": "شرائح من الدجاج الطازج مع البصل والمشروم والفلفل الرومي الأحمر تقدم على طبق من الفخار",
         "price": "33.00",
@@ -277,7 +277,7 @@
       {
         "name": "Meat Pottery",
         "nameAr": "فخارة لحم",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706514286/menuwebsite/upload/imagepart2/part3/img7_htf12n.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706514286/menuwebsite/upload/imagepart2/part3/img7_htf12n.webp",
         "description": "Slices of fresh meat with onions, mushrooms and red pepper served on a clay plate",
         "descriptionAr": "شرائح من اللحم الطازج مع البصل والمشروم والفلفل الرومي الأحمر تقدم على طبق من الفخار",
         "price": "38.00",
@@ -289,12 +289,12 @@
   {
     "name": "Meat Grills",
     "nameAr": "مشويات اللحوم",
-    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706702116/part4/part5/part6/new/DSC_0294_eajmeq.webp",
+    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706702116/part4/part5/part6/new/DSC_0294_eajmeq.webp",
     "products": [
       {
         "name": "Meat Kebab",
         "nameAr": "كباب لحم",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706520449/part4/img_hz2fy9.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706520449/part4/img_hz2fy9.webp",
         "description": "Fresh, tender meat kebab marinated in our way",
         "descriptionAr": "كباب اللحم الطازج الطري المتبل بطريقتنا",
         "price": "34.00",
@@ -320,7 +320,7 @@
       {
         "name": "Meat awsal",
         "nameAr": "أوصال لحم",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706520383/part4/img2_tqjmgl.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706520383/part4/img2_tqjmgl.webp",
         "description": "Pieces of tender and fresh meat marinated in our way",
         "descriptionAr": "قطع من اللحم الطري والطازج المتبلة على طريقتنا",
         "price": "61.00",
@@ -341,7 +341,7 @@
       {
         "name": "Meat Problem",
         "nameAr": "مشكل لحم",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706520449/part4/img_hz2fy9.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706520449/part4/img_hz2fy9.webp",
         "description": "A selection of tender meat awwal and fresh meat kebab",
         "descriptionAr": "تشكيلة من أوصال اللحم الطري وكباب اللحم الطازج",
         "price": "57.00",
@@ -350,7 +350,7 @@
       {
         "name": "Mixed grill",
         "nameAr": "مشوي مشكل",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706520382/part4/img3_o51z8p.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706520382/part4/img3_o51z8p.webp",
         "description": "A selection of meat awwal, chicken awwal, meat kebab, and chicken kebab, grilled and served with eggplant, tomato, and fresh bell pepper.",
         "descriptionAr": "تشكيلة من أوصال اللحموأوصال الدجاج وكباب اللحم وكباب الدجاج يشوى ويقدم مع الباذنجان والطماطم والفلفل الرومي الطازج",
         "price": "37.00",
@@ -376,7 +376,7 @@
       {
         "name": "Istanbul tomato sauce",
         "nameAr": "صوص الطماطم اسطنبولي",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706520408/part4/img4_vepw4f.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706520408/part4/img4_vepw4f.webp",
         "description": "Tender and fresh meat kebab with our special seasoning with a hint of garlic and cold pepper",
         "descriptionAr": "كباب اللحم الطري والطازج بتتبيلتنا الخاصة مع نفحة من الثوم والفلفل البارد",
         "price": "36.00",
@@ -385,7 +385,7 @@
       {
         "name": "Eggplant Kebab",
         "nameAr": "كباب باذنجان",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706520389/part4/img5_nmewp0.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706520389/part4/img5_nmewp0.webp",
         "description": "Grilled tender meat kebab pieces with eggplant and tomato slices, served with special sauce cooked over charcoal",
         "descriptionAr": "قطع كباب اللحم الطري المشوي مع الباذنجان وشرائح الطماطم يأتيك مع الصوص الخاص المطبوخ على الفحم",
         "price": "36.00",
@@ -394,7 +394,7 @@
       {
         "name": "Kebab with Sauce",
         "nameAr": "كباب مع الصوص",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706520387/part4/img6_wilutt.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706520387/part4/img6_wilutt.webp",
         "description": "Tender meat kebab served with mashed tomatoes prepared on charcoal",
         "descriptionAr": "كباب اللحم الطري يقدم مع الطماطم المهروسة المعدة على الفحم",
         "price": "36.00",
@@ -403,7 +403,7 @@
       {
         "name": "Khashkhash Kebab",
         "nameAr": "كباب خشخاش",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706520888/part4/DSC02402_g582gx.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706520888/part4/DSC02402_g582gx.webp",
         "description": "Fresh meat kebab marinated in our special way, served with special sauce prepared on charcoal",
         "descriptionAr": "كباب اللحم الطازج المتبل على طريقتنا الخاصة يقدم مع الصوص الخاص المعد على الفحم",
         "price": "36.00",
@@ -412,7 +412,7 @@
       {
         "name": "Arayes Meat",
         "nameAr": "عرايس لحم",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706520446/part4/img8_mwkeyv.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706520446/part4/img8_mwkeyv.webp",
         "description": "A special filling of meat between two thin layers of bread topped with drops of pomegranate molasses",
         "descriptionAr": "حشوة مميزة من اللحم بين طبقتين رقيقتين من الخبز عليها قطرات من دبس الرمان",
         "price": "29.00",
@@ -422,7 +422,7 @@
       {
         "name": "Toshka with Cheese and Nuts",
         "nameAr": "طوشكا مع الجبن والمكسرات",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706520450/part4/img9_zyd9ym.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706520450/part4/img9_zyd9ym.webp",
         "description": "A special filling of meat, cheese and nuts between two thin layers of bread, grilled and served to you",
         "descriptionAr": "حشوة مميزة من اللحم والجبن والمكسرات بين طبقتين رقيقتين من الخبز تقمر على المشوى وتقدم لك",
         "price": "36.00",
@@ -436,7 +436,7 @@
       {
         "name": "Grilled Sheep Liver",
         "nameAr": "كبدة غنم مشوية",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706520451/part4/img10_uvoioh.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706520451/part4/img10_uvoioh.webp",
         "description": "Grilled lamb liver with a pinch of salt and black pepper",
         "descriptionAr": "كبدة غنم مشوية مع رشة من الملح والفلفل الأسود",
         "price": "29.00",
@@ -445,7 +445,7 @@
       {
         "name": "Kasabiya Meat Kibbeh",
         "nameAr": "كبة لحم قصابية",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706520446/part4/img11_bpw7ss.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706520446/part4/img11_bpw7ss.webp",
         "description": "Pieces of fresh meat kebab prepared in Aleppo style",
         "descriptionAr": "قطع من كباب اللحم الطازج المعد على الطريقة الحلبية",
         "price": "29.00",
@@ -457,12 +457,12 @@
   {
     "name": "Chicken Grills",
     "nameAr": "مشويات الدجاج",
-    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522034/part4/part5/img_sbfc5u.webp",
+    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522034/part4/part5/img_sbfc5u.webp",
     "products": [
       {
         "name": "Chicken kebab",
         "nameAr": "كباب دجاج",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522052/part4/part5/img1_qecxo7.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522052/part4/part5/img1_qecxo7.webp",
         "description": "Tender and fresh chicken kebab marinated in our special way",
         "descriptionAr": "كباب الدجاج الطري والطازج المتبل على طريقتنا الخاصة",
         "price": "29.00",
@@ -488,7 +488,7 @@
       {
         "name": "Chicken Grill",
         "nameAr": "شيش طاووق",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522034/part4/part5/img_sbfc5u.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522034/part4/part5/img_sbfc5u.webp",
         "description": "Pieces of premium chicken breast marinated with our special spices",
         "descriptionAr": "قطع من صدر الدجاج الفاخر المتبلة بتوابلنا الخاصة",
         "price": "33.00",
@@ -514,7 +514,7 @@
       {
         "name": "Chicken Problem",
         "nameAr": "مشكل دجاج",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522034/part4/part5/img_sbfc5u.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522034/part4/part5/img_sbfc5u.webp",
         "description": "A selection of tender chicken tenders and chicken kebab",
         "descriptionAr": "تشكيلة من أوصال الدجاج الطري وكباب الدجاج",
         "price": "34.00",
@@ -540,7 +540,7 @@
       {
         "name": "Chicken Wings",
         "nameAr": "أجنحة دجاج",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522084/part4/part5/img3_deetx2.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522084/part4/part5/img3_deetx2.webp",
         "description": "Twelve pieces of bone-in chicken wings served with special sauce",
         "descriptionAr": "اثنتا عشرة قطعة من أجنحة الدجاج بالعظم تقدم مع الصوص الخاص",
         "price": "18.00",
@@ -551,12 +551,12 @@
   {
     "name": "Kiwanis",
     "nameAr": "كيوانيات",
-    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522084/part4/part5/img3_deetx2.webp",
+    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522084/part4/part5/img3_deetx2.webp",
     "products": [
       {
         "name": "Kiwan Meat Kebab",
         "nameAr": "كباب كيوان لحم",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522088/part4/part5/img4_e1gjzc.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522088/part4/part5/img4_e1gjzc.webp",
         "description": "A special kebab that we prepare in two stages. It is grilled, then mozzarella cheese is added to it, wrapped in dough and baked in the oven.",
         "descriptionAr": "كباب خاص نحضره على مرحلتين يشوى ثم تضاف إليه جبنة الموزريلا ليلف بالعجين ويقمر بالفرن",
         "price": "54.00",
@@ -566,7 +566,7 @@
       {
         "name": "Chicken Kebab",
         "nameAr": "كباب كيوان دجاج",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522096/part4/part5/img5_gdn9lq.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522096/part4/part5/img5_gdn9lq.webp",
         "description": "A special kebab that we prepare in two stages. It is grilled, then mozzarella cheese is added to it, wrapped in dough and baked in the oven.",
         "descriptionAr": "كباب خاص نحضره على مرحلتين يشوى ثم تضاف إليه جبنة الموزريلا ليلف بالعجين ويقمر بالفرن",
         "price": "44.00",
@@ -579,7 +579,7 @@
       {
         "name": "Kebab roll with nuts and meat",
         "nameAr": "كباب رول مع المكسرات لحم",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522318/part4/part5/img6_ezxfct.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522318/part4/part5/img6_ezxfct.webp",
         "description": "Eight pieces of fresh meat kebab with nuts stuffed inside a thin layer of dough and grilled over low heat",
         "descriptionAr": "ثمان قطع من كباب اللحم الطازج مع المكسرات محشو داخل طبقة رقيقة من العجين يشوى على نار هادئة",
         "price": "39.00",
@@ -592,7 +592,7 @@
       {
         "name": "Kebab roll with nuts chicken",
         "nameAr": "كباب رول مع المكسرات دجاج",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522332/part4/part5/img7_lvjgtr.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522332/part4/part5/img7_lvjgtr.webp",
         "description": "Eight pieces of fresh chicken kebab with nuts stuffed inside a thin layer of dough and grilled over low heat",
         "descriptionAr": "ثمان قطع من كباب الدجاج الطازج مع المكسرات محشو داخل طبقة رقيقة من العجين يشوى على نار هادئة",
         "price": "34.00",
@@ -602,7 +602,7 @@
       {
         "name": "Kiwan Meat Kofta",
         "nameAr": "كفتة كيوان لحم",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522090/part4/part5/img8_vebv4b.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522090/part4/part5/img8_vebv4b.webp",
         "description": "Kofta of premium meat stuffed with delicious cheese and some fresh vegetables",
         "descriptionAr": "كفتة من اللحم الفاخر المحشو بالجبنة الزاكية وشيء من الخضار الطازج",
         "price": "39.00",
@@ -615,7 +615,7 @@
       {
         "name": "Chicken Kiwan Kofta",
         "nameAr": "كفتة كيوان دجاج",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522098/part4/part5/img9_wgp0ch.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522098/part4/part5/img9_wgp0ch.webp",
         "description": "Kofta of premium chicken stuffed with delicious cheese and some fresh vegetables",
         "descriptionAr": "كفتة من الدجاج الفاخر المحشو بالجبنة الزاكية وشيء من الخضار الطازج",
         "price": "36.00",
@@ -628,7 +628,7 @@
       {
         "name": "Kebab with Cherries",
         "nameAr": "كباب بالكرز",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522054/part4/part5/img10_okxymc.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522054/part4/part5/img10_okxymc.webp",
         "description": "Balled pieces of fresh meat kebab dipped in cherries specially squeezed for this luxurious dish",
         "descriptionAr": "قطع مكورة من كباب اللحم الطازج المغمورة بالكرز المعصور خصيصا لهذا الطبق الفاخر",
         "price": "56.00",
@@ -637,7 +637,7 @@
       {
         "name": "Mozzarella Kebab with Nuts",
         "nameAr": "كباب موزريلا مع المكسرات",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522056/part4/part5/img11_w9o66j.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522056/part4/part5/img11_w9o66j.webp",
         "description": "Tender meat kebab marinated in our special way with mozzarella cheese and nuts",
         "descriptionAr": "كباب اللحم الطري المتبل بطريقتنا الخاصة مع جبنة الموزريلا والمكسرات",
         "price": "43.00",
@@ -646,7 +646,7 @@
       {
         "name": "Rital Roll",
         "nameAr": "رول ريتال",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522119/part4/part5/img12_rrglar.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522119/part4/part5/img12_rrglar.webp",
         "description": "Slices of fresh meat stuffed with cheese and nuts wrapped in a thin layer of lard",
         "descriptionAr": "شرائح من اللحم الطازج المحشو بالجبن والمكسرات الملفوفة بطبقة رقيقة من الشحم",
         "price": "64.00",
@@ -659,7 +659,7 @@
       {
         "name": "ريش لحم",
         "nameAr": "ريش لحم",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522089/part4/part5/img13_b4g977.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522089/part4/part5/img13_b4g977.webp",
         "description": "Four pieces of delicious and tender lamb chops",
         "descriptionAr": "أربع قطع من ريش الغنم الشهية والطرية",
         "price": "64.00",
@@ -668,7 +668,7 @@
       {
         "name": "Chef's dish",
         "nameAr": "طبق الشيف",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706522283/part4/part5/img14_drwnjr.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706522283/part4/part5/img14_drwnjr.webp",
         "description": "Pieces of fresh meat with our special toppings, wrapped in dough and roasted in the oven",
         "descriptionAr": "قطع من اللحم الطازج مع إضافتنا الخاصة الملفوفة بالعجين والمقمرة بالفرن",
         "price": "48.00",
@@ -683,12 +683,12 @@
   {
     "name": "The Sweets",
     "nameAr": "الحلى",
-    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706702117/part4/part5/part6/new/DSC_0615_qyxkte.webp",
+    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706702117/part4/part5/part6/new/DSC_0615_qyxkte.webp",
     "products": [
       {
         "name": "Umm Ali",
         "nameAr": "أم علي",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706702117/part4/part5/part6/new/DSC_0615_qyxkte.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706702117/part4/part5/part6/new/DSC_0615_qyxkte.webp",
         "description": "Enjoy a delicious and hot dish with this luxurious dish served with pistachios and coconut",
         "descriptionAr": "تمتع بطبق رائع ومذاق ساخن مع هذا الطبق الفاخر المقدم مع الفستق وجوز الهند",
         "price": "16.00",
@@ -774,12 +774,12 @@
   {
     "name": "Fresh Juices",
     "nameAr": "العصائر الطازجة",
-    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523351/part4/part5/part6/img_gp7lqu.webp",
+    "imageUrl": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523351/part4/part5/part6/img_gp7lqu.webp",
     "products": [
       {
         "name": "Layers of Kiwan",
         "nameAr": "طبقات كيوان",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523351/part4/part5/part6/img_gp7lqu.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523351/part4/part5/part6/img_gp7lqu.webp",
         "description": "Our special drink with fresh pomegranate seeds, luxurious mango, strawberry topping, ice cream and a special berry drink",
         "descriptionAr": "مشروبنا المميز مع حبيبات الرمان الطازج والمانجو الفاخرة وطبقة فراولة والآيس كريم ومشروب التوت الخاص",
         "price": "16.00",
@@ -789,7 +789,7 @@
       {
         "name": "Cocktail",
         "nameAr": "كوكتيل",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523346/part4/part5/part6/img2_bfjzlq.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523346/part4/part5/part6/img2_bfjzlq.webp",
         "description": "A mixture of delicious natural fruits",
         "descriptionAr": "خليط من الفواكه الطبيعية اللذيذة",
         "price": "14.00",
@@ -799,7 +799,7 @@
       {
         "name": "Orange",
         "nameAr": "برتقال",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523292/part4/part5/part6/img3_wpi8cd.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523292/part4/part5/part6/img3_wpi8cd.webp",
         "description": "Fresh orange juice",
         "descriptionAr": "عصير البرتقال الطازج",
         "price": "16.00",
@@ -808,7 +808,7 @@
       {
         "name": "Apple",
         "nameAr": "تفاح",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523365/part4/part5/part6/img4_aphsul.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523365/part4/part5/part6/img4_aphsul.webp",
         "description": "Fresh apple juice",
         "descriptionAr": "عصير التفاح الطازج",
         "price": "14.00",
@@ -817,7 +817,7 @@
       {
         "name": "Pomegranate",
         "nameAr": "رمان",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523377/part4/part5/part6/img5_fo2qct.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523377/part4/part5/part6/img5_fo2qct.webp",
         "description": "Enjoy the fresh and delicious taste of pomegranate",
         "descriptionAr": "تمتع بمذاق الرمان الطازج والشهي",
         "price": "14.00",
@@ -826,7 +826,7 @@
       {
         "name": "Mango",
         "nameAr": "منجا",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523398/part4/part5/part6/img6_gm0mhz.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523398/part4/part5/part6/img6_gm0mhz.webp",
         "description": "Fresh mango juice",
         "descriptionAr": "عصير المنجا الطازج",
         "price": "14.00",
@@ -835,7 +835,7 @@
       {
         "name": "Lemon Mint",
         "nameAr": "ليمون نعناع",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523266/part4/part5/part6/img8_prdef0.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523266/part4/part5/part6/img8_prdef0.webp",
         "description": "Enjoy a refreshing lemon and mint drink",
         "descriptionAr": "استمتع بمشروب الليمون والنعناع المنعش",
         "price": "13.00",
@@ -844,7 +844,7 @@
       {
         "name": "Strawberry",
         "nameAr": "فراولة",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523292/part4/part5/part6/img9_yd0wxt.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523292/part4/part5/part6/img9_yd0wxt.webp",
         "description": "Fresh strawberry juice",
         "descriptionAr": "عصير الفراولة الطازجة",
         "price": "13.00",
@@ -853,7 +853,7 @@
       {
         "name": "Saudi cocktail",
         "nameAr": "كوكتيل سعودي",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523264/part4/part5/part6/img10_ehjywo.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523264/part4/part5/part6/img10_ehjywo.webp",
         "description": "Fresh fruit pieces dipped in special drink",
         "descriptionAr": "قطع الفواكة الطازجة المغمورة بالمشروب الخاص",
         "price": "16.00",
@@ -871,7 +871,7 @@
       {
         "name": "Blueberry Mojito",
         "nameAr": "موهيتو توت أزرق",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523264/part4/part5/part6/img11_q3x7ac.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523264/part4/part5/part6/img11_q3x7ac.webp",
         "description": "Special Mojito taste with blueberry flavor",
         "descriptionAr": "مذاق الموهيتو الخاص بنكهة التوت الأزرق",
         "price": "16.00",
@@ -880,7 +880,7 @@
       {
         "name": "Pomegranate Mojito",
         "nameAr": "موهيتو رمان",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523278/part4/part5/part6/img12_iwajmh.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523278/part4/part5/part6/img12_iwajmh.webp",
         "description": "Special mojito taste with pomegranate flavor",
         "descriptionAr": "مذاق الموهيتو الخاص بنكهة الرمان",
         "price": "16.00",
@@ -889,7 +889,7 @@
       {
         "name": "Tea",
         "nameAr": "شاي",
-        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto/v1706523273/part4/part5/part6/img13_qiluvx.webp",
+        "image": "https://res.cloudinary.com/dhg7c7ypc/image/upload/q_auto,w_400,h_350/v1706523273/part4/part5/part6/img13_qiluvx.webp",
         "description": "Istanbul style",
         "descriptionAr": "على الطريقة الاسطنبولية",
         "price": "3.00",
