@@ -19,6 +19,10 @@ export default defineConfig({
       ...config.alias,
     },
   },
+  build: {
+    target: "esnext",
+    cssMinify: "lightningcss",
+  },
   plugins: [
     million.vite({ auto: true }),
     HotExport(),

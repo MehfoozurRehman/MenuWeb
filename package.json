@@ -12,8 +12,9 @@
   },
   "dependencies": {
     "gsap": "^3.12.5",
-    "million": "^2.6.4",
     "jotai": "^2.8.0",
+    "lightningcss": "^1.24.1",
+    "million": "^2.6.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-feather": "^2.0.10",
