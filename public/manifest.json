@@ -11,24 +11,18 @@
   "orientation": "any",
   "icons": [
     {
-      "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
-      "sizes": "192x192",
-      "type": "image/png",
+      "src": "/logo.webp",
+      "sizes": "234x234",
+      "type": "image/webp",
       "purpose": "any"
     }
   ],
   "screenshots": [
     {
-      "src": "https://www.pwabuilder.com/assets/screenshots/screen1.png",
-      "sizes": "2880x1800",
-      "type": "image/png",
-      "description": "A screenshot of the home page"
+      "src": "/screenshot.webp",
+      "sizes": "1892x850",
+      "type": "image/webp",
+      "description": "Screenshot of the app"
     }
   ],
   "prefer_related_applications": false
