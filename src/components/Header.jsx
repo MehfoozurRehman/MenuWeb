@@ -1,4 +1,4 @@
-import Menulogo from "../assets/logoicon.png";
+import Menulogo from "../assets/logo.webp";
 import Socialmedia from "./Socialmedia";
 import { useLanguage } from "../context/LanguageContext";
 import { useState } from "react";
@@ -55,7 +55,6 @@ export default function Header({ query, setQuery, toggleTheme, theme, cart }) {
                 />
               </div>
             </div>
-
             <div className="menu__home__content__right__content__top__cart fadeIn">
               <svg
                 width="21"
